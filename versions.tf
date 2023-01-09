@@ -1,5 +1,5 @@
 terraform {
-    required_providers {
-        vault = "~> 3.12.0"
-    }
+  required_providers {
+    vault = "~> 3.12.0"
+  }
 }
