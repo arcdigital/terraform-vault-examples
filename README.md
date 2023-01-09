@@ -1,0 +1,1 @@
+# example vault configuration with terraform
